@@ -22,7 +22,7 @@ class PropertyInjectionControllerTest {
 //    }
 
     @Test
-    void sayHello() {
+    void  sayHello() {
 
         System.out.println(propertyInjectionController.sayHello());
     }
